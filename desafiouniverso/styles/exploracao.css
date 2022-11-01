@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../images/mountains-universe-3.png);
+    font-family: 'Roboto', sans-serif;
+}
+
+main{
+    padding: 63px 102px;
+}
+
+main p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #eeeeee;
+    margin-top: 16px;
+    width: 648px;
+}
+
+p{
+    color: white;
+}
